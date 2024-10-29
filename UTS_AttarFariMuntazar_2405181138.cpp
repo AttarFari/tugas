@@ -30,7 +30,7 @@ int main() {
     switch (pilihan) {
         case 1:
             namaMenu = "Es Teler";
-            harga = 27000;
+            harga = 29000;
             break;
         case 2:
             namaMenu = "Es Alpukat";
